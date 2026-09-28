@@ -1,0 +1,16 @@
+Product,Category,Quantity,Price,Country
+Mouse,Accessories,2,15,Sweden
+Keyboard,Accessories,1,40,Sweden
+Mouse,Accessories,3,15,Germany
+Monitor,Displays,2,120,Sweden
+Keyboard,Accessories,2,40,Germany
+Laptop,Computers,1,850,Sweden
+Monitor,Displays,,125,Norway
+Mouse,Accessories,4,,Sweden
+Laptop,Computers,2,820,Germany
+Webcam,Accessories,3,55,Norway
+Keyboard,Accessories,,42,Sweden
+Monitor,Displays,1,118,Germany
+Webcam,Accessories,2,55,Sweden
+Laptop,Computers,1,,Norway
+Mouse,Accessories,2,16,Norway
